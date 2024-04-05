@@ -35,7 +35,7 @@
     font-size: 18px;
     font-weight: 500;
 }
-@media(max-width:1280px){
+/* @media(max-width:1280px){
     .shopcategory-banner{
         margin: 20px auto;
         width: 90%;
@@ -84,4 +84,4 @@
     .shopcategory-products{
          grid-template-columns: 1fr 1fr;
     }
-}
+} */
