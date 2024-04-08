@@ -31,7 +31,7 @@ const LoginSignup = () => {
       window.location.replace("/")
     }
     else{
-      alert(responseData,errors)
+      alert(responseData.errors)
     }
   };
 
@@ -52,7 +52,7 @@ const LoginSignup = () => {
       window.location.replace("/")
     }
     else{
-      alert(responseData,errors)
+      alert(responseData.errors)
     }
   };
 
